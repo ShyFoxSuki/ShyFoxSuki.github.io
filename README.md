@@ -1,5 +1,3 @@
-/* import theme modules */
-@import url('https://refact0r.github.io/system24/src/main.css'); /* main theme css. DO NOT REMOVE */
 
 	/* background colors */
 	--bg-0: #24273a; /* main background color. */
