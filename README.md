@@ -1,27 +1,5 @@
- * @name system24 (catppuccin macchiato lavender)
- * @description A tui-style discord theme. Based on the catppuccin maccchiato color palette.
- * @author refact0r, bean
- * @version 1.0.0
- * @invite nz87hXyvcy
- * @website https://github.com/refact0r/system24
- * @source https://github.com/refact0r/system24/blob/master/flavors/catppuccin-mocha.theme.css 
- * @authorId 508863359777505290
- * @authorLink https://www.refact0r.dev
-*/
-
 /* import theme modules */
 @import url('https://refact0r.github.io/system24/src/main.css'); /* main theme css. DO NOT REMOVE */
-
-/* customize things here */
-:root {
-	--font: 'DM Mono'; /* UI font name. it must be installed on your system. */
-	letter-spacing: -0.05ch; /* decreases letter spacing for better readability. */
-	font-weight: 300; /* UI font weight. */
-	--label-font-weight: 500; /* font weight for panel labels. */
-	--corner-text: 'macchiato24'; /* custom text to display in the corner. only works on windows. */
-	--pad: 16px; /* padding between panels. */
-	--txt-pad: 10px; /* padding inside panels to prevent labels from clipping */
-	--panel-roundness: 0px; /* corner roundness of panels. ONLY WORKS IF unrounding.css IS REMOVED (see above). */
 
 	/* background colors */
 	--bg-0: #24273a; /* main background color. */
