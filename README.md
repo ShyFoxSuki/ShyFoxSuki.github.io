@@ -1,1 +1,1 @@
-https://shyfoxsuki.github.io/index.html
+https://shyfoxsuki.github.io/catppuccin-macchiato.theme.css/index.html
